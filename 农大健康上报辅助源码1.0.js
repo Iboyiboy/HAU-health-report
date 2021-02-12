@@ -10,7 +10,7 @@ var height = device.height;
 var width = device.width;
 setScreenMetrics(width, height);
 var GZH = "河南农业大学信息化办公室";
-var path = "/storage/emulated/0/Android/上报.jpg";
+//var path = "/storage/emulated/0/Android/上报.jpg";
 var ReportTo = "17河农大电信一班（正经群）";//修改这里即修改像谁发1，请把此参数改为你要发1的人，用于自己检查自己是否已经上报，不建议去除此功能.
 var intoGZHflag = false;//进入健康上报页面标志位，防止微信页面冲突。
 var reportOverflag = false;//上报完成进行收尾flag
